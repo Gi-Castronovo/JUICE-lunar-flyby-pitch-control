@@ -1,0 +1,11 @@
+# MATLAB autosave and cache files
+*.asv
+*.m~
+*.mex*
+slprj/
+# OS files
+.DS_Store
+Thumbs.db
+
+# Windows metadata created when copying files into WSL
+*:Zone.Identifier
