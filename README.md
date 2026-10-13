@@ -227,4 +227,3 @@ Developed individually for the *Space Missions and Systems* course at Sapienza U
 Rome (2024, Homework 2), and later restructured.
 
 **Girolamo Castronovo** · [LinkedIn](https://www.linkedin.com/in/girolamo-castronovo-286387269/)
-# JUICE-lunar-flyby-pitch-control
